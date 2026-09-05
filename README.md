@@ -351,6 +351,7 @@ A good test (by [samwho](http://samwho.co.uk)):
 3. Will not break when the implementation of what's being tested is changed.
 4. Does not depend on anything from the outside world, and leaves nothing behind when it's done.
 
+* 🆓📘 [Agent QA documentation](https://vostride.com/docs/agent-qa/quickstart) &mdash; Guide to writing natural-language web and mobile tests, running them from the command line, and reviewing results.
 * 💲📘 [*Beautiful Testing*](http://shop.oreilly.com/product/9780596159825.do) &mdash; Essays that break down testing as a philosophy, as a process, and as aided by good tools.
 
 # License
